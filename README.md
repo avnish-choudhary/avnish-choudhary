@@ -26,3 +26,6 @@ I am dedicated, hardworking and proactive professional with 6+ years of experien
 [linkedin]: https://www.linkedin.com/in/acpavnish/
 [facebook]: https://www.facebook.com/acp.avnish
 [aboutme]: https://avnishchoudhary.com/
+
+
+![](https://komarev.com/ghpvc/?username=avnish-choudhary&color=green)
