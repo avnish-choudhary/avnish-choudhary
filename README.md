@@ -1,6 +1,7 @@
 ### About Me
 
-I am dedicated, hardworking and proactive professional with 6+ years of experience in IT industry. I have a hands-on experience in Java, AWS, Python, Web Development, GoLang, Angular and VueJs. I have successfully completed my Batchelor's degree in Computer Engineering from Mumbai University.
+I am a staff engineer at Credit Saison and have 6+ years of experience. My main interests are software architecture, high availability, distributed systems, concurrent and reactive programming, Java, Python, etc. 
+
 ### Skills:
 
 <!-- UL -->
