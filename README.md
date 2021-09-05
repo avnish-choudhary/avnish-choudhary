@@ -4,16 +4,19 @@ I am dedicated, hardworking and proactive professional with 6+ years of experien
 ### Skills:
 
 <!-- UL -->
-* Programming Language – Java, Python, Core Java, Vue, Angular, PHP.
-* Cloud Platforms - AWS
-* Android Tools – Android Studio, AVD Manager.
-* Database – MySQL, Postgres, Oracle, MongoDB, Neo4J.
-* Web Technologies – HTML/HTML5, CSS, Bootstrap, JavaScript, jQuery.
-* Framework – Spring boot, Dropwizard, JMS, Spring Security, JPA, Hibernate.
+* Programming Language – Java, Python, C#, C++, PHP and GoLang.
+* Database – MySQL, Postgres, Oracle, h2, MongoDB, Neo4J.
+* Java Frameworks – Micronaut, Spring boot, Dropwizard, Spring framworks(JMS, AOP, Security, JPA), Hibernate.
 * API – Restful API, GraphQL.
-* Other Tools – Visual Studio Code, Eclipse, IntelliJ Idea, PyCharm.
-* Servers – Apache Tomcat, Xampp, Wamp.
-* Version Control – Git, SVN.
+* Web Technologies – HTML/HTML5, CSS, Bootstrap, JavaScript, jQuery.
+* Message Brokers - Apache ActiveMQ, Apache Kafka 
+* DevOps Tools - Jenkins, Docker, Hashicorp Consul, HA Proxy
+* Monitoring Tools - JVisualVM, AppDynamics, Dynatrace, NewRelic, ELK
+* Testing Tools - JMeter, Selenium, Postman.
+* Other Tools – Visual Studio Code, Netbeans, Eclipse, IntelliJ Idea, PyCharm.
+* Servers – Apache Tomcat, Xampp.
+* Cloud Platforms - AWS.
+* Version Control – Git (Github, Bitbucket and Gitlab), SVN.
 
 ### Connect with me on:
 
