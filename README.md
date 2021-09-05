@@ -5,7 +5,7 @@ I am dedicated, hardworking and proactive professional with 6+ years of experien
 
 <!-- UL -->
 * Programming Language – Java, Python, C#, C++, PHP and GoLang.
-* Database – MySQL, Postgres, Oracle, h2, MongoDB, Neo4J.
+* Database – MySQL, Postgres, Oracle, h2, MongoDB, Neo4J and Redis.
 * Java Frameworks – Micronaut, Spring boot, Dropwizard, Spring framworks(JMS, AOP, Security, JPA), Hibernate.
 * API – Restful API, GraphQL.
 * Frontend Technologies – HTML, CSS, Bootstrap, JavaScript, Angular and VueJS.
