@@ -9,7 +9,7 @@ I am dedicated, hardworking and proactive professional with 6+ years of experien
 * Java Frameworks – Micronaut, Spring boot, Dropwizard, Spring framworks(JMS, AOP, Security, JPA), Hibernate.
 * API – Restful API, GraphQL.
 * Frontend Technologies – HTML, CSS, Bootstrap, JavaScript, Angular and Vue.
-* Message Brokers - Apache ActiveMQ, Apache Kafka 
+* Message Brokers - Apache ActiveMQ, Apache Kafka, Amazon SQS. 
 * DevOps Tools - Jenkins, Docker, Hashicorp Consul, HA Proxy
 * Monitoring Tools - JVisualVM, AppDynamics, Dynatrace, NewRelic, ELK
 * Testing Tools - JMeter, Selenium, Postman.
