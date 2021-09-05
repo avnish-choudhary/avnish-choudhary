@@ -1,6 +1,6 @@
 ### About Me
 
-I am dedicated, hardworking and proactive professional with 5+ years of experience in IT industry. I have a hands-on experience in Java, AWS, Python, Web Development, GoLang, Angular and VueJs. I have successfully completed my Batchelor's degree in Computer Engineering from Mumbai University.
+I am dedicated, hardworking and proactive professional with 6+ years of experience in IT industry. I have a hands-on experience in Java, AWS, Python, Web Development, GoLang, Angular and VueJs. I have successfully completed my Batchelor's degree in Computer Engineering from Mumbai University.
 ### Skills:
 
 <!-- UL -->
