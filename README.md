@@ -32,8 +32,8 @@ I am a staff engineer at Credit Saison and have 6+ years of experience. My main 
 
 <br>
 
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=avnish-choudhary&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=vue">
-<img align="center" alt="Avnish's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=avnish-choudhary&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=vue" /></a>
+<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=avnish-choudhary&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=vue-dark">
+<img align="center" alt="Avnish's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=avnish-choudhary&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=vue-dark" /></a>
 <!-- <a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=avnish-choudhary&layout=compact&theme=radical">
   <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=avnish-choudhary&layout=compact&theme=radical" />
 </a>
