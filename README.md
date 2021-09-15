@@ -29,3 +29,14 @@ I am a staff engineer at Credit Saison and have 6+ years of experience. My main 
 [aboutme]: https://avnishchoudhary.com/ -->
 
 ![](https://komarev.com/ghpvc/?username=avnish-choudhary&color=green)
+
+<br>
+
+<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=avnish-choudhary&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
+<img align="center" alt="Avnish's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=avnish-choudhary&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=SamirPaul1&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=avnish-choudhary&layout=compact&theme=radical" />
+</a>
+
+
+
