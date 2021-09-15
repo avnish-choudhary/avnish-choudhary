@@ -28,7 +28,7 @@ I am a staff engineer at Credit Saison and have 6+ years of experience. My main 
 [facebook]: https://www.facebook.com/acp.avnish
 [aboutme]: https://avnishchoudhary.com/ -->
 
-![](https://komarev.com/ghpvc/?username=avnish-choudhary&color=green)
+### Stats:
 
 <br>
 
@@ -46,5 +46,6 @@ I am a staff engineer at Credit Saison and have 6+ years of experience. My main 
 <br />
 <img src="https://activity-graph.herokuapp.com/graph?username=avnish-choudhary&bg_color=050F2C&color=0095DD&line=0095DD&hide_border=false" alt="contribution graph" />
 
+![](https://komarev.com/ghpvc/?username=avnish-choudhary&color=green)
 
 
