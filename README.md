@@ -1,6 +1,6 @@
 ### 🌟 About Me
 
-I am a staff engineer at Credit Saison and have 6+ years of experience. My main interests are software architecture, high availability, distributed systems, concurrent and reactive programming, Java, Python, etc. 
+I am a staff engineer at Credit Saison and have 10+ years of experience. My main interests are software architecture, high availability, distributed systems, concurrent and reactive programming, Java, Python, etc. 
 
 ### Skills:
 
